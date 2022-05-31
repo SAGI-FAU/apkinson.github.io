@@ -2,7 +2,9 @@
 youtubeId: zOYFEEEQfBY
 ---
 
-## Apkinson
+# Apkinson
+![](image.png)
+![](res/apkinson_title.jpg)
 
 Apkinson is an Android application to  
 continuously evaluate the speech and movement symptoms of Parkinson's patients. 
