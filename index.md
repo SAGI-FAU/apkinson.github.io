@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+---
+youtubeId: zOYFEEEQfBY
+---
 
-You can use the [editor on GitHub](https://github.com/SAGI-FAU/apkinson.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Apkinson
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Apkinson is an Android application to  
+continuously evaluate the speech and movement symptoms of Parkinson's patients. 
+The application provides feedback about the current stage of the disease. 
+The patients are asked to do various speech and movement exercises every day. 
+The exercises are selected from an exercise bank that contains a total of 35 activities. 
+The speech exercises include the phonation of sustained vowels, diadochokinetic utterances, several sentences that the patient has to read, and the description of images that appear on the screen. 
+Movement exercises are captured using the smartphone's inertial sensors to evaluate symptoms in the upper and lower limbs, such as postural tremor, kinetic tremor, finger tapping, and gait deficits, among others.
+At the end of the exercise session, Apkinson evaluates the patient's performance while it keeps a register of the results from previous sessions. 
+This analysis allows the continuous assessment of the progress of the disease in patients using the application. 
 
-### Markdown
+The code of the appication is opensource and available from [github](https://github.com/SAGI-FAU/SMA2)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Demo Video
 
-```markdown
-Syntax highlighted code block
+{% include youtubePlayer.html id=page.youtubeId %}
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SAGI-FAU/apkinson.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Literature:
