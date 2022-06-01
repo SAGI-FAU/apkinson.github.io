@@ -1,13 +1,13 @@
 ---
 title: Apkinson
 youtubeId: zOYFEEEQfBY
+site.github.repository_url: https://github.com/SAGI-FAU/SMA2
 ---
 
 # Apkinson
 ![Apkinson](/res/apkinson_title.jpg)
 
-Apkinson is an Android application to  
-continuously evaluate the speech and movement symptoms of Parkinson's patients. 
+Apkinson is an Android application to continuously evaluate the speech and movement symptoms of Parkinson's patients. 
 The application provides feedback about the current stage of the disease. 
 The patients are asked to do various speech and movement exercises every day. 
 The exercises are selected from an exercise bank that contains a total of 35 activities. 
